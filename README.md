@@ -56,8 +56,11 @@ Each project includes:
 - Anomaly detection
 - Risk segmentation
 - Recommendations  
-
 ### 2️⃣ Customer Churn Analysis (Power BI)
+- Customer behavior profiling
+- Churn driver identification
+- Risk segmentation
+- Retention strategy & What‑If simulation
 ### 3️⃣ Sales Performance Dashboard (Power BI)
 ### 4️⃣ HR Analytics — Employee Attrition (R + Power BI)
 ### 5️⃣ Financial Forecasting (Excel + Power BI)
@@ -146,8 +149,11 @@ Cada proyecto incluye:
 - Detección de anomalías  
 - Segmentación de riesgo  
 - Recomendaciones  
-
 ### 2️⃣ Análisis de Churn de Clientes (Power BI)
+- Perfilamiento del comportamiento del cliente
+- Identificación de factores clave de churn
+- Segmentación de riesgo
+- Estrategia de retención y simulación What‑If
 ### 3️⃣ Dashboard de Ventas (Power BI)
 ### 4️⃣ Analítica de Recursos Humanos — Rotación (R + Power BI)
 ### 5️⃣ Pronóstico Financiero (Excel + Power BI)
