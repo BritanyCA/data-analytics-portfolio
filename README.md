@@ -62,6 +62,11 @@ Each project includes:
 - Risk segmentation
 - Retention strategy & What‑If simulation
 ### 3️⃣ Sales Performance Dashboard (Power BI)
+- Sales trend analysis
+- Product & store performance
+- Promotion impact
+- Demand patterns & seasonality
+- Inventory vs sales alignment
 ### 4️⃣ HR Analytics — Employee Attrition (R + Power BI)
 ### 5️⃣ Financial Forecasting (Excel + Power BI)
 ### 6️⃣ Marketing Campaign Analysis (SQL + Power BI)
@@ -155,6 +160,11 @@ Cada proyecto incluye:
 - Segmentación de riesgo
 - Estrategia de retención y simulación What‑If
 ### 3️⃣ Dashboard de Ventas (Power BI)
+- Análisis de tendencias de venta
+- Desempeño por producto y tienda
+- Impacto de promociones
+- Patrones de demanda y estacionalidad
+- Alineación entre ventas e inventario
 ### 4️⃣ Analítica de Recursos Humanos — Rotación (R + Power BI)
 ### 5️⃣ Pronóstico Financiero (Excel + Power BI)
 ### 6️⃣ Análisis de Campañas de Marketing (SQL + Power BI)
