@@ -102,7 +102,7 @@ All projects include bilingual documentation.
 
 ---
 
-# 🇪🇸 Versión en Español
+# 🇨🇷Versión en Español
 
 ## 📌 Descripción General
 Bienvenido a mi Portafolio de Análisis de Datos.  
