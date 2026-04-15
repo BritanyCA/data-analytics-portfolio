@@ -68,6 +68,9 @@ Each project includes:
 - Demand patterns & seasonality
 - Inventory vs sales alignment
 ### 4️⃣ HR Analytics — Employee Attrition (R + Power BI)
+- Full attrition analysis using R (EDA) and Power BI (executive dashboard).
+- Key drivers identified: low salary, low job satisfaction, short tenure.
+- KPIs and DAX measures for workforce performance and risk segmentation.
 ### 5️⃣ Financial Forecasting (Excel + Power BI)
 ### 6️⃣ Marketing Campaign Analysis (SQL + Power BI)
 ### 7️⃣ Supply Chain Optimization (SQL)
@@ -166,6 +169,9 @@ Cada proyecto incluye:
 - Patrones de demanda y estacionalidad
 - Alineación entre ventas e inventario
 ### 4️⃣ Analítica de Recursos Humanos — Rotación (R + Power BI)
+- Análisis completo de rotación usando R (EDA) y Power BI (dashboard ejecutivo).
+- Identificación de factores clave: salario bajo, baja satisfacción, poca antigüedad.
+- KPIs y DAX para medir desempeño y segmentar riesgo de rotación.
 ### 5️⃣ Pronóstico Financiero (Excel + Power BI)
 ### 6️⃣ Análisis de Campañas de Marketing (SQL + Power BI)
 ### 7️⃣ Optimización de Supply Chain (SQL)
