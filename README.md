@@ -72,6 +72,9 @@ Each project includes:
 - Key drivers identified: low salary, low job satisfaction, short tenure.
 - KPIs and DAX measures for workforce performance and risk segmentation.
 ### 5️⃣ Financial Forecasting (Excel + Power BI)
+- Historical analysis of gold prices to identify trends and year‑over‑year changes.
+- Volatility and moving averages calculated to assess market stability.
+- Forecasting models built using linear trend, CAGR, and scenario‑based projections.
 ### 6️⃣ Marketing Campaign Analysis (SQL + Power BI)
 ### 7️⃣ Supply Chain Optimization (SQL)
 ### 8️⃣ E‑commerce Analytics (SQL + Power BI)
@@ -173,6 +176,10 @@ Cada proyecto incluye:
 - Identificación de factores clave: salario bajo, baja satisfacción, poca antigüedad.
 - KPIs y DAX para medir desempeño y segmentar riesgo de rotación.
 ### 5️⃣ Pronóstico Financiero (Excel + Power BI)
+- Análisis histórico del precio del oro para identificar tendencias y variaciones YoY.
+- Cálculo de volatilidad y promedios móviles para evaluar estabilidad del mercado.
+- Construcción de modelos de pronóstico: lineal, CAGR y escenarios (optimista/base/pesimista).
+
 ### 6️⃣ Análisis de Campañas de Marketing (SQL + Power BI)
 ### 7️⃣ Optimización de Supply Chain (SQL)
 ### 8️⃣ Analítica de E‑commerce (SQL + Power BI)
