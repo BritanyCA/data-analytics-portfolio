@@ -75,11 +75,11 @@ Each project includes:
 - Historical analysis of gold prices to identify trends and year‑over‑year changes.
 - Volatility and moving averages calculated to assess market stability.
 - Forecasting models built using linear trend, CAGR, and scenario‑based projections.
-### 6️⃣ Marketing Campaign Analysis (SQL + Power BI)
+### 6️⃣ Global Human Migration Analytics (SQL + Power BI) 
 ### 7️⃣ Supply Chain Optimization (SQL)
 ### 8️⃣ E‑commerce Analytics (SQL + Power BI)
 ### 9️⃣ Healthcare Data Analysis (R)
-### 🔟 Data Cleaning & Transformation Project (SQL)
+### 🔟 Marketing Campaign Analysis (SQL + Power BI)
 
 ---
 
@@ -180,11 +180,11 @@ Cada proyecto incluye:
 - Cálculo de volatilidad y promedios móviles para evaluar estabilidad del mercado.
 - Construcción de modelos de pronóstico: lineal, CAGR y escenarios (optimista/base/pesimista).
 
-### 6️⃣ Análisis de Campañas de Marketing (SQL + Power BI)
+### 6️⃣ Análisis Global de Migración Humana (SQL + Power BI)
 ### 7️⃣ Optimización de Supply Chain (SQL)
 ### 8️⃣ Analítica de E‑commerce (SQL + Power BI)
 ### 9️⃣ Análisis de Salud (R)
-### 🔟 Proyecto de Limpieza y Transformación de Datos (SQL)
+### 🔟 Análisis de Campañas de Marketing (SQL + Power BI)
 
 ---
 
