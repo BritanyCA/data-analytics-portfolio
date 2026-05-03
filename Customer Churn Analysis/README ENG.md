@@ -1,7 +1,7 @@
 
 # 📊 Customer Churn Analysis & Retention Strategy  
 ### Power BI Dashboard | Portfolio Project  
-**Author:** Britany Campos **Tools:** Power BI, DAX, Excel  
+**Author:** Britany Campos **Tools:** Power BI, DAX, Excel. 
 
 ---
 
