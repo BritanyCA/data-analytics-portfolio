@@ -76,6 +76,10 @@ Each project includes:
 - Volatility and moving averages calculated to assess market stability.
 - Forecasting models built using linear trend, CAGR, and scenario‑based projections.
 ### 6️⃣ Global Human Migration Analytics (SQL + Power BI) 
+- Analysis of global migration flows and major migration corridors.
+- Labor migration patterns from Pakistan (skilled, semi‑skilled, unskilled).
+- Remittances trend analysis and economic impact assessment.
+- Integration of SQL views + Power BI star schema for time‑series modeling.
 ### 7️⃣ Supply Chain Optimization (SQL)
 ### 8️⃣ E‑commerce Analytics (SQL + Power BI)
 ### 9️⃣ Healthcare Data Analysis (R)
@@ -179,8 +183,11 @@ Cada proyecto incluye:
 - Análisis histórico del precio del oro para identificar tendencias y variaciones YoY.
 - Cálculo de volatilidad y promedios móviles para evaluar estabilidad del mercado.
 - Construcción de modelos de pronóstico: lineal, CAGR y escenarios (optimista/base/pesimista).
-
 ### 6️⃣ Análisis Global de Migración Humana (SQL + Power BI)
+- Análisis de flujos migratorios globales y de los principales corredores migratorios.
+- Patrones de migración laboral desde Pakistán (trabajadores calificados, semi‑calificados y no calificados).
+- Análisis de tendencias de remesas y evaluación de su impacto económico.
+- Integración de vistas SQL + modelo en estrella en Power BI para análisis de series temporales.
 ### 7️⃣ Optimización de Supply Chain (SQL)
 ### 8️⃣ Analítica de E‑commerce (SQL + Power BI)
 ### 9️⃣ Análisis de Salud (R)
