@@ -2,7 +2,7 @@
 Power BI | Portfolio Project
 Analyzing global migration flows, diaspora distribution, labor migration from Pakistan, and the economic impact of remittances.
 
-Author: Britany Campos • Tools: Power BI, SQL
+Author: Britany Campos • Tools: Power BI, SQL.
 
 ## 🚀 Project Overview
 This project explores how migration patterns shape economic outcomes across South Asia.
