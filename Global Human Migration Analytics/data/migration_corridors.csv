@@ -1,0 +1,121 @@
+origin_country,destination_country,year,migrant_stock,corridor
+Pakistan,Saudi Arabia,1990,600000,Pakistan → Saudi Arabia
+Pakistan,Saudi Arabia,2000,900000,Pakistan → Saudi Arabia
+Pakistan,Saudi Arabia,2005,1300000,Pakistan → Saudi Arabia
+Pakistan,Saudi Arabia,2010,1800000,Pakistan → Saudi Arabia
+Pakistan,Saudi Arabia,2015,2200000,Pakistan → Saudi Arabia
+Pakistan,Saudi Arabia,2024,2700000,Pakistan → Saudi Arabia
+Pakistan,UAE,1990,200000,Pakistan → UAE
+Pakistan,UAE,2000,450000,Pakistan → UAE
+Pakistan,UAE,2005,700000,Pakistan → UAE
+Pakistan,UAE,2010,1000000,Pakistan → UAE
+Pakistan,UAE,2015,1300000,Pakistan → UAE
+Pakistan,UAE,2024,1600000,Pakistan → UAE
+Pakistan,United Kingdom,1990,350000,Pakistan → United Kingdom
+Pakistan,United Kingdom,2000,500000,Pakistan → United Kingdom
+Pakistan,United Kingdom,2005,800000,Pakistan → United Kingdom
+Pakistan,United Kingdom,2010,1100000,Pakistan → United Kingdom
+Pakistan,United Kingdom,2015,1400000,Pakistan → United Kingdom
+Pakistan,United Kingdom,2024,1662000,Pakistan → United Kingdom
+Pakistan,United States,1990,50000,Pakistan → United States
+Pakistan,United States,2000,120000,Pakistan → United States
+Pakistan,United States,2005,250000,Pakistan → United States
+Pakistan,United States,2010,400000,Pakistan → United States
+Pakistan,United States,2015,550000,Pakistan → United States
+Pakistan,United States,2024,684000,Pakistan → United States
+Pakistan,Canada,1990,15000,Pakistan → Canada
+Pakistan,Canada,2000,40000,Pakistan → Canada
+Pakistan,Canada,2005,80000,Pakistan → Canada
+Pakistan,Canada,2010,150000,Pakistan → Canada
+Pakistan,Canada,2015,230000,Pakistan → Canada
+Pakistan,Canada,2024,303000,Pakistan → Canada
+India,UAE,1990,450000,India → UAE
+India,UAE,2000,900000,India → UAE
+India,UAE,2005,1500000,India → UAE
+India,UAE,2010,2500000,India → UAE
+India,UAE,2015,3200000,India → UAE
+India,UAE,2024,3500000,India → UAE
+India,United States,1990,500000,India → United States
+India,United States,2000,1200000,India → United States
+India,United States,2005,2000000,India → United States
+India,United States,2010,3200000,India → United States
+India,United States,2015,4200000,India → United States
+India,United States,2024,4900000,India → United States
+India,Saudi Arabia,1990,600000,India → Saudi Arabia
+India,Saudi Arabia,2000,1000000,India → Saudi Arabia
+India,Saudi Arabia,2005,1500000,India → Saudi Arabia
+India,Saudi Arabia,2010,2000000,India → Saudi Arabia
+India,Saudi Arabia,2015,2400000,India → Saudi Arabia
+India,Saudi Arabia,2024,2600000,India → Saudi Arabia
+India,United Kingdom,1990,500000,India → United Kingdom
+India,United Kingdom,2000,700000,India → United Kingdom
+India,United Kingdom,2005,950000,India → United Kingdom
+India,United Kingdom,2010,1200000,India → United Kingdom
+India,United Kingdom,2015,1500000,India → United Kingdom
+India,United Kingdom,2024,1800000,India → United Kingdom
+India,Canada,1990,100000,India → Canada
+India,Canada,2000,250000,India → Canada
+India,Canada,2005,500000,India → Canada
+India,Canada,2010,800000,India → Canada
+India,Canada,2015,1200000,India → Canada
+India,Canada,2024,1700000,India → Canada
+Bangladesh,Saudi Arabia,1990,100000,Bangladesh → Saudi Arabia
+Bangladesh,Saudi Arabia,2000,400000,Bangladesh → Saudi Arabia
+Bangladesh,Saudi Arabia,2005,1000000,Bangladesh → Saudi Arabia
+Bangladesh,Saudi Arabia,2010,1800000,Bangladesh → Saudi Arabia
+Bangladesh,Saudi Arabia,2015,2800000,Bangladesh → Saudi Arabia
+Bangladesh,Saudi Arabia,2024,3500000,Bangladesh → Saudi Arabia
+Bangladesh,UAE,1990,50000,Bangladesh → UAE
+Bangladesh,UAE,2000,200000,Bangladesh → UAE
+Bangladesh,UAE,2005,500000,Bangladesh → UAE
+Bangladesh,UAE,2010,700000,Bangladesh → UAE
+Bangladesh,UAE,2015,900000,Bangladesh → UAE
+Bangladesh,UAE,2024,1090000,Bangladesh → UAE
+Bangladesh,Malaysia,1990,10000,Bangladesh → Malaysia
+Bangladesh,Malaysia,2000,50000,Bangladesh → Malaysia
+Bangladesh,Malaysia,2005,200000,Bangladesh → Malaysia
+Bangladesh,Malaysia,2010,400000,Bangladesh → Malaysia
+Bangladesh,Malaysia,2015,600000,Bangladesh → Malaysia
+Bangladesh,Malaysia,2024,800000,Bangladesh → Malaysia
+Bangladesh,United Kingdom,1990,100000,Bangladesh → United Kingdom
+Bangladesh,United Kingdom,2000,200000,Bangladesh → United Kingdom
+Bangladesh,United Kingdom,2005,350000,Bangladesh → United Kingdom
+Bangladesh,United Kingdom,2010,450000,Bangladesh → United Kingdom
+Bangladesh,United Kingdom,2015,550000,Bangladesh → United Kingdom
+Bangladesh,United Kingdom,2024,645000,Bangladesh → United Kingdom
+Nepal,India,1990,2000000,Nepal → India
+Nepal,India,2000,2200000,Nepal → India
+Nepal,India,2005,2500000,Nepal → India
+Nepal,India,2010,2800000,Nepal → India
+Nepal,India,2015,3000000,Nepal → India
+Nepal,India,2024,3200000,Nepal → India
+Nepal,Qatar,1990,5000,Nepal → Qatar
+Nepal,Qatar,2000,30000,Nepal → Qatar
+Nepal,Qatar,2005,100000,Nepal → Qatar
+Nepal,Qatar,2010,250000,Nepal → Qatar
+Nepal,Qatar,2015,380000,Nepal → Qatar
+Nepal,Qatar,2024,450000,Nepal → Qatar
+Nepal,Malaysia,1990,10000,Nepal → Malaysia
+Nepal,Malaysia,2000,50000,Nepal → Malaysia
+Nepal,Malaysia,2005,150000,Nepal → Malaysia
+Nepal,Malaysia,2010,300000,Nepal → Malaysia
+Nepal,Malaysia,2015,420000,Nepal → Malaysia
+Nepal,Malaysia,2024,500000,Nepal → Malaysia
+Sri Lanka,Saudi Arabia,1990,50000,Sri Lanka → Saudi Arabia
+Sri Lanka,Saudi Arabia,2000,100000,Sri Lanka → Saudi Arabia
+Sri Lanka,Saudi Arabia,2005,180000,Sri Lanka → Saudi Arabia
+Sri Lanka,Saudi Arabia,2010,250000,Sri Lanka → Saudi Arabia
+Sri Lanka,Saudi Arabia,2015,310000,Sri Lanka → Saudi Arabia
+Sri Lanka,Saudi Arabia,2024,350000,Sri Lanka → Saudi Arabia
+Sri Lanka,UAE,1990,40000,Sri Lanka → UAE
+Sri Lanka,UAE,2000,80000,Sri Lanka → UAE
+Sri Lanka,UAE,2005,150000,Sri Lanka → UAE
+Sri Lanka,UAE,2010,200000,Sri Lanka → UAE
+Sri Lanka,UAE,2015,260000,Sri Lanka → UAE
+Sri Lanka,UAE,2024,300000,Sri Lanka → UAE
+Sri Lanka,Canada,1990,30000,Sri Lanka → Canada
+Sri Lanka,Canada,2000,60000,Sri Lanka → Canada
+Sri Lanka,Canada,2005,100000,Sri Lanka → Canada
+Sri Lanka,Canada,2010,160000,Sri Lanka → Canada
+Sri Lanka,Canada,2015,210000,Sri Lanka → Canada
+Sri Lanka,Canada,2024,250000,Sri Lanka → Canada

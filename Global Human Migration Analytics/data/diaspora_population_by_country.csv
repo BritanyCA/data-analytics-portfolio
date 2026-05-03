@@ -1,0 +1,94 @@
+origin_country,destination_country,destination_region,diaspora_population,migration_type,year_estimate,source,continent
+Pakistan,Saudi Arabia,Middle East,2714684,Work,2022,Saudi Census 2022,Asia
+Pakistan,United Arab Emirates,Middle East,1600000,Work,2020,MOHRD Yearbook 2019-20,Asia
+Pakistan,United Kingdom,Europe,1662286,Permanent,2021,UK Census 2021,Europe
+Pakistan,United States,North America,684438,Permanent,2023,US ACS 2023,North America
+Pakistan,Kuwait,Middle East,339033,Work,2020,UN Migrant Stock 2020,Asia
+Pakistan,Canada,North America,303260,Permanent,2021,Canada Census 2021,North America
+Pakistan,Oman,Middle East,250092,Work,2020,UN Migrant Stock 2020,Asia
+Pakistan,Qatar,Middle East,235505,Work,2020,UN Migrant Stock 2020,Asia
+Pakistan,Italy,Europe,162413,Permanent,2024,ISTAT Italy 2024,Europe
+Pakistan,Germany,Europe,140000,Permanent,2022,Destatis Germany 2022,Europe
+Pakistan,Australia,Oceania,120440,Permanent,2023,ABS Australia 2023,Oceania
+Pakistan,Bahrain,Middle East,117000,Work,2020,MOHRD Yearbook 2019-20,Asia
+Pakistan,Spain,Europe,114693,Permanent,2023,INE Spain 2023,Europe
+Pakistan,France,Europe,100000,Permanent,2020,French Govt Estimate,Europe
+Pakistan,Malaysia,Southeast Asia,85013,Work,2020,UN Migrant Stock 2020,Asia
+Pakistan,Norway,Europe,46300,Permanent,2023,SSB Norway 2023,Europe
+Pakistan,Greece,Europe,34177,Work,2011,Greece Census 2011,Europe
+Pakistan,Portugal,Europe,30000,Work,2024,Pakistan Embassy Estimate,Europe
+Pakistan,Sweden,Europe,27292,Permanent,2022,SCB Sweden 2022,Europe
+Pakistan,Netherlands,Europe,27261,Permanent,2022,CBS Netherlands 2022,Europe
+Pakistan,Denmark,Europe,26714,Permanent,2023,StatBank Denmark 2023,Europe
+Pakistan,Japan,East Asia,22118,Work,2022,MOJ Japan 2022,Asia
+Pakistan,Belgium,Europe,19247,Permanent,2012,CBS Belgium 2012,Europe
+Pakistan,Turkey,Middle East,17290,Work,2021,TurkStat 2021,Asia
+Pakistan,South Korea,East Asia,13990,Work,2019,Korea Immigration 2019,Asia
+Pakistan,Ireland,Europe,12891,Permanent,2016,CSO Ireland 2016,Europe
+Pakistan,South Africa,Africa,11157,Permanent,2016,StatsSA 2016,Africa
+Pakistan,New Zealand,Oceania,8094,Permanent,2023,Stats NZ 2023,Oceania
+Pakistan,Libya,Africa,6000,Work,2020,MOHRD Yearbook,Africa
+India,United Arab Emirates,Middle East,3500000,Work,2024,UN DESA 2024,Asia
+India,United States,North America,4900000,Permanent,2024,US Census ACS,North America
+India,Saudi Arabia,Middle East,2600000,Work,2024,UN DESA 2024,Asia
+India,United Kingdom,Europe,1800000,Permanent,2021,UK Census 2021,Europe
+India,Canada,North America,1700000,Permanent,2021,Canada Census 2021,North America
+India,Kuwait,Middle East,1050000,Work,2024,UN DESA 2024,Asia
+India,Oman,Middle East,780000,Work,2024,UN DESA 2024,Asia
+India,Qatar,Middle East,750000,Work,2024,UN DESA 2024,Asia
+India,Australia,Oceania,970000,Permanent,2024,ABS Australia 2024,Oceania
+India,Nepal,South Asia,600000,Work,2024,UN DESA 2024,Asia
+India,Malaysia,Southeast Asia,2400000,Permanent,2024,Malaysia Census,Asia
+India,South Africa,Africa,1340000,Permanent,2024,StatsSA Estimate,Africa
+India,Singapore,Southeast Asia,650000,Work,2024,Singapore DOS,Asia
+India,Germany,Europe,230000,Permanent,2022,Destatis 2022,Europe
+India,Italy,Europe,180000,Work,2024,ISTAT 2024,Europe
+India,Bahrain,Middle East,350000,Work,2024,UN DESA 2024,Asia
+India,New Zealand,Oceania,280000,Permanent,2023,Stats NZ 2023,Oceania
+India,Japan,East Asia,46000,Work,2023,MOJ Japan 2023,Asia
+Bangladesh,Saudi Arabia,Middle East,3500000,Work,2025,IOM 2024,Asia
+Bangladesh,United Arab Emirates,Middle East,1089917,Work,2020,UAE Statistics 2020,Asia
+Bangladesh,Malaysia,Southeast Asia,800000,Work,2023,Malaysia Govt 2023,Asia
+Bangladesh,Oman,Middle East,680242,Work,2018,Gulf News 2018,Asia
+Bangladesh,United Kingdom,Europe,644881,Permanent,2021,UK Census 2021,Europe
+Bangladesh,Qatar,Middle East,400000,Work,2019,Qatar Statistics,Asia
+Bangladesh,United States,North America,350000,Permanent,2024,US Census ACS,North America
+Bangladesh,Kuwait,Middle East,350000,Work,2020,Daily Star 2020,Asia
+Bangladesh,South Africa,Africa,300000,Work,2019,Dhaka Tribune 2019,Africa
+Bangladesh,Bahrain,Middle East,180000,Work,2017,Xinhua 2017,Asia
+Bangladesh,Italy,Europe,162641,Permanent,2023,Italy MOL 2023,Europe
+Bangladesh,Singapore,Southeast Asia,150000,Work,2020,Straits Times 2020,Asia
+Bangladesh,Canada,North America,120000,Permanent,2023,BDCG Toronto,North America
+Bangladesh,Lebanon,Middle East,100000,Work,2024,Daily Star 2024,Asia
+Bangladesh,Maldives,South Asia,80000,Work,2021,Maldives FM,Asia
+Bangladesh,Australia,Oceania,70000,Permanent,2024,ABS 2024,Oceania
+Bangladesh,Portugal,Europe,50000,Work,2023,SEF Portugal,Europe
+Bangladesh,Japan,East Asia,35073,Work,2024,MOJ Japan 2024,Asia
+Bangladesh,Greece,Europe,35000,Work,2025,New Age BD 2025,Europe
+Sri Lanka,Saudi Arabia,Middle East,350000,Work,2024,UN DESA 2024,Asia
+Sri Lanka,United Arab Emirates,Middle East,300000,Work,2024,UN DESA 2024,Asia
+Sri Lanka,Canada,North America,250000,Permanent,2021,Canada Census 2021,North America
+Sri Lanka,United Kingdom,Europe,200000,Permanent,2021,UK Census 2021,Europe
+Sri Lanka,Australia,Oceania,165000,Permanent,2023,ABS 2023,Oceania
+Sri Lanka,Italy,Europe,120000,Permanent,2024,ISTAT 2024,Europe
+Sri Lanka,Kuwait,Middle East,110000,Work,2024,UN DESA 2024,Asia
+Sri Lanka,Qatar,Middle East,140000,Work,2024,UN DESA 2024,Asia
+Sri Lanka,United States,North America,75000,Permanent,2023,US Census ACS,North America
+Sri Lanka,Malaysia,Southeast Asia,72000,Work,2024,Malaysia Govt,Asia
+Sri Lanka,Germany,Europe,50000,Permanent,2022,Destatis 2022,Europe
+Sri Lanka,France,Europe,60000,Permanent,2020,INSEE France,Europe
+Sri Lanka,South Korea,East Asia,25000,Work,2023,Korea Immigration,Asia
+Sri Lanka,Japan,East Asia,32000,Work,2023,MOJ Japan 2023,Asia
+Nepal,India,South Asia,3200000,Work,2024,UN DESA 2024,Asia
+Nepal,Qatar,Middle East,450000,Work,2024,UN DESA 2024,Asia
+Nepal,Saudi Arabia,Middle East,340000,Work,2024,UN DESA 2024,Asia
+Nepal,United Arab Emirates,Middle East,300000,Work,2024,UN DESA 2024,Asia
+Nepal,Malaysia,Southeast Asia,500000,Work,2024,Nepal MOLESS,Asia
+Nepal,Kuwait,Middle East,80000,Work,2024,UN DESA 2024,Asia
+Nepal,United States,North America,200000,Permanent,2023,US Census ACS,North America
+Nepal,United Kingdom,Europe,95000,Permanent,2021,UK Census 2021,Europe
+Nepal,Australia,Oceania,130000,Permanent,2023,ABS 2023,Oceania
+Nepal,Japan,East Asia,120000,Work,2023,MOJ Japan 2023,Asia
+Nepal,South Korea,East Asia,45000,Work,2023,Korea Immigration,Asia
+Nepal,Canada,North America,55000,Permanent,2021,Canada Census 2021,North America
+Nepal,Bahrain,Middle East,30000,Work,2024,UN DESA 2024,Asia
