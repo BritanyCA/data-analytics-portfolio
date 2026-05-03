@@ -32,7 +32,7 @@ The model follows a star schema:
 - vw_Pakistan_Migration
 
 All fact tables connect to **Calendar[Year]** to enable time intelligence.
-## 🔍 Key Insights (English)
+## 🔍 Key Insights
 1. India dominates global remittance inflows.
 India consistently leads all South Asian countries, reflecting a large overseas workforce and strong economic ties with high‑income host nations.
 
