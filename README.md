@@ -81,6 +81,9 @@ Each project includes:
 - Remittances trend analysis and economic impact assessment.
 - Integration of SQL views + Power BI star schema for time‑series modeling.
 ### 7️⃣ Supply Chain Optimization (SQL)
+- SQL pipeline for data cleaning and analytical views to identify key disruption drivers (lead time, geopolitical risk, distance, fuel index, carrier reliability).
+- Power BI star schema with DAX to model disruption rate, lead time, composite risk, and predictive indicators.
+- Dashboard shows that long‑distance maritime routes carry the highest risk, and textiles/pharmaceuticals are the most vulnerable products.
 ### 8️⃣ E‑commerce Analytics (SQL + Power BI)
 ### 9️⃣ Healthcare Data Analysis (R)
 ### 🔟 Marketing Campaign Analysis (SQL + Power BI)
@@ -189,6 +192,9 @@ Cada proyecto incluye:
 - Análisis de tendencias de remesas y evaluación de su impacto económico.
 - Integración de vistas SQL + modelo en estrella en Power BI para análisis de series temporales.
 ### 7️⃣ Optimización de Supply Chain (SQL)
+- Pipeline en SQL para limpieza de datos y creación de vistas analíticas con el fin de identificar los principales factores de interrupción (tiempo de entrega, riesgo geopolítico, distancia, índice de combustible y confiabilidad del transportista).
+- Modelo tipo estrella en Power BI utilizando DAX para analizar la tasa de interrupciones, tiempo de entrega, riesgo compuesto e indicadores predictivos.
+- El dashboard muestra que las rutas marítimas de larga distancia presentan el mayor riesgo, y que los productos textiles y farmacéuticos son los más vulnerables.
 ### 8️⃣ Analítica de E‑commerce (SQL + Power BI)
 ### 9️⃣ Análisis de Salud (R)
 ### 🔟 Análisis de Campañas de Marketing (SQL + Power BI)
